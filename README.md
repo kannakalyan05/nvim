@@ -4,5 +4,5 @@ sudo rm -rf ~/.local/share/nvim && git clone https://github.com/NvChad/NvChad ~/
 ```
 # After installing paste this script
 ```bash
-sudo rm -rf ~/.config/nvim && git clone git@github.com:kannakalyan05/nvim.git ~/.config
+sudo rm -rf ~/.config/nvim && git clone git@github.com:kannakalyan05/nvim.git ~/.config/nvim
 ```
